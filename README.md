@@ -1,2 +1,2 @@
-# oop-java-calculator
+# OOP_JavaCalculator
 OOP Practice in Java
